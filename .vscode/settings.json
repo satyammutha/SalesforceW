@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "salesforcedx-vscode-core.retrieve-test-code-coverage": true
+  "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+  "python.pythonPath": "C:\\Users\\satya\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
